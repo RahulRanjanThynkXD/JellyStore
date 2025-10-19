@@ -1,11 +1,5 @@
 {
-	"latestVersionName": "v1.2.5",
-	"latestVersionUrl": "https://thynkxd.com/jb_apps/JellyLauncher_V2_1.2.5.apk",
-	"releaseNotes": "Jellybean New Launcher - v 1.2.5"
-  	"device_info":[
-		{
-			"model":"JBHKT03",
-			"rsn":[],
-		}
-	],
+	"latestVersionName": "v1.3.9",
+	"latestVersionUrl": "https://thynkxd.com/jb_apps/JellyLauncher_V2_1.3.9.apk",
+	"releaseNotes": "Jellybean WaveTV Launcher - v 1.3.9"
 }
